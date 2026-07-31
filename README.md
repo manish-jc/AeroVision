@@ -13,7 +13,7 @@ The project demonstrates real-time data ingestion, automated data processing, fe
 
 # 🏠 Dashboard Overview
 
-![Dashboard Home](assets/Dashboard Home.png)
+![Dashboard Home](assets/Home.png)
 
 ---
 
@@ -52,7 +52,7 @@ The dashboard enables users to monitor:
 
 # 🏗️ System Architecture
 
-![Architecture](assets/aerovision - architecture.png)
+![Architecture](assets/aerovision_architecture.png)
 
 ---
 
@@ -60,19 +60,19 @@ The dashboard enables users to monitor:
 
 ## KPI Overview
 
-![KPI](assets/Dashboard KPI.png)
+![KPI](assets/KPI.png)
 
 ---
 
 ## Live Global Flight Map
 
-![Map](assets/Dashboard Map.png)
+![Map](assets/Map.png)
 
 ---
 
 ## Live Flight Feed
 
-![Flight Feed](assets/Dashboard Flight Data.png)
+![Flight Feed](assets/Flight_Data.png)
 
 ---
 
