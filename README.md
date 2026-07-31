@@ -227,7 +227,7 @@ Open the Power BI dashboard and refresh the dataset to visualize the latest flig
 
 **Manish J C**
 
-M.Sc. Data Analytics
+M.Sc Big Data Analytics
 
 GitHub: https://github.com/manish-jc
 
