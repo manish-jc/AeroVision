@@ -1,5 +1,8 @@
 # ✈️ AeroVision
-
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+![API](https://img.shields.io/badge/API-OpenSky-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ## Real-Time Global Flight Monitoring Dashboard
 
 AeroVision is an end-to-end **real-time aviation analytics project** that monitors live aircraft worldwide using the **OpenSky Network API**, processes the data through a Python ETL pipeline, and visualizes actionable insights using an interactive **Power BI dashboard**.
